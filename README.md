@@ -1,4 +1,11 @@
 # Fruits App UI - (Flutter UI Challenge)
+### Dependencies
+- `flutter_staggered_grid_view` 'Create grid view
+- `palette_generator` Use to generate image main color
+- `flutter_svg` 'Svg to Icon
+
+### ❤ Using clean architecture
+
 ###  ❤ Some Screenshots of this UI.	
 
 ![alt text](https://github.com/SaanPrasanna/Flutter-Fruit-App-UI/blob/main/assets/1.png?raw=true)
