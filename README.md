@@ -3,7 +3,8 @@
 - `flutter_staggered_grid_view` 'Create grid view
 - `palette_generator` Use to generate image main color
 - `flutter_svg` 'Svg to Icon
-<a href="http://google.com.au/" rel="some text">![Foo](http://www.google.com.au/images/nav_logo7.png)</a>
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="SandunPrasanna" data-color="#FFDD00" data-emoji="" data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 ### ❤ Using clean architecture
 
 ###  ❤ Some Screenshots of this UI.	
